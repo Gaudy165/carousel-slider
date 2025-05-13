@@ -1,4 +1,4 @@
-# 🎠 Carousel Slider Ice Cream
+# 🎠 Carousel Slider
 
 ![Preview](images//snapshot.png)
 
